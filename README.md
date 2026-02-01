@@ -26,7 +26,7 @@ Diplômée d'un **double Master en Data Science** (UCAD/Université de Lille), j
 **Impact :** Permet d'identifier en amont les étudiants à risque et d'optimiser les processus d'admission  
 **Stack :** Python, Scikit-learn, Pandas, Feature Engineering  
 **Pipeline :** Collecte → Nettoyage → EDA → Modélisation → Évaluation  
-📂 [Voir le projet](#)
+📂 [Voir le projet](https://github.com/Kantethiara/Pr-diction_Parcours)
 
 ---
 
@@ -36,7 +36,7 @@ Diplômée d'un **double Master en Data Science** (UCAD/Université de Lille), j
 **Impact :** Automatise l'appariement étudiant-mentor selon compétences, objectifs et affinités  
 **Stack :** Python, Algorithmes de similarité, NLP  
 **Méthode :** Calcul de scores de compatibilité multi-critères  
-📂 [Voir le projet](#)
+📂 [Voir le projet](https://github.com/Kantethiara/Mathing_Mentors-user)
 
 ---
 
@@ -44,9 +44,9 @@ Diplômée d'un **double Master en Data Science** (UCAD/Université de Lille), j
 > Assistant conversationnel pour simplifier les démarches fiscales
 
 **Impact :** Automatisation du support client avec compréhension contextuelle  
-**Stack :** NLP, Intent Recognition, Python  
-**Focus :** UX conversationnelle + amélioration continue  
-📂 [Voir le projet](#)
+**Stack :** NLP, RAG fastAPI, Python  
+**Focus :** UX conversationnelle + Agent IA   
+📂 [Voir le projet](https://github.com/Kantethiara/sunufiscai)
 
 ---
 
@@ -56,7 +56,6 @@ Diplômée d'un **double Master en Data Science** (UCAD/Université de Lille), j
 **Impact :** Détection proactive de conditions météo dangereuses  
 **Stack :** IoT Data Processing, Python, Architecture Data  
 **Pipeline :** Collecte capteurs → Analyse temps réel → Alertes automatiques  
-📂 [Voir le projet](#)
 
 ---
 
