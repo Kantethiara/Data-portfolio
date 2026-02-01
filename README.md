@@ -4,6 +4,54 @@ Développeuse orientée Data & IA, passionnée par la création de solutions con
 
 ---
 
+## 🎓 Diplômes & Formations Académiques
+
+### 🎓 Master – Data Science (Double diplôme)  
+**Spécialité : Modélisation Statistique et Informatique (MSI)**  
+📅 Novembre 2022 – Décembre 2024  
+🏫 Université Cheikh Anta Diop de Dakar (UCAD) / Université de Lille, France – Dakar, Sénégal
+
+### 💻 Développeur Data  
+📅 Février 2024 – Avril 2025  
+🏫 Orange Digital Center (Sonatel Academy) – Sénégal
+
+### 🎓 Licence 3 – Mathématiques  
+📅 Novembre 2020 – Janvier 2022  
+🏫 Université Cheikh Anta Diop de Dakar (UCAD) – Sénégal
+
+
+## 🎓 Certifications
+
+- 📊 **Introduction to Big Data** – Coursera  
+  👉 https://coursera.org/share/eb6b0e958717786bd2559b57dde320e5
+
+- 🧠 **SQL Joins** – Coursera  
+  👉 https://coursera.org/share/ab08248cb790c4a4b025180b1d080094
+
+- 📈 **Overview of Data Visualization in Microsoft Excel** – Coursera  
+  👉 https://coursera.org/share/686bf3a6e912b4ac3a68671e9a5cb358
+
+- 🤖 **AI & Intelligent Systems Concepts** – Coursera  
+  👉 https://coursera.org/share/635b05433924f8a895b08b58791e3a5d
+
+- 🗃️ **Python Project for Data Engineering** – Coursera  
+  👉 https://coursera.org/share/768c8ab1f6fbae4fbb6c6cdfd1b91202
+
+- ☁️ **Python for Data Science, AI & Development** – Coursera  
+  👉 https://coursera.org/share/bdd915276b3ee62ca4c8e2a5b316d856
+
+- ☁️ **Python pour le Deep Learning & le Machine Learning: A à Z** – Udemy  
+  👉 https://udemy-certificate.s3.amazonaws.com/image/UC-58073e91-fc2e-4e63-93b1-28ec5a6efb31.jpg?v=1728808489000
+
+- 🐍 **Python Developer Certification** – SoloLearn
+
+- 🧩 **Développement Data – ECSA (École de Code Sonatel Academy)**
+
+- 🌱 **Certification Développement personnel : devenir une meilleure version de soi-même**
+
+---
+
+
 ## 🚀 Compétences principales
 
 - Python (Flask, Tkinter)
@@ -104,54 +152,6 @@ Conception d’un assistant conversationnel orienté utilisateur avec améliorat
 👉 Voir tous mes projets : https://github.com/Kantethiara :contentReference[oaicite:1]{index=1}
 
 ---
-
-## 🎓 Diplômes & Formations Académiques
-
-### 🎓 Master – Data Science (Double diplôme)  
-**Spécialité : Modélisation Statistique et Informatique (MSI)**  
-📅 Novembre 2022 – Décembre 2024  
-🏫 Université Cheikh Anta Diop de Dakar (UCAD) / Université de Lille, France – Dakar, Sénégal
-
-### 💻 Développeur Data  
-📅 Février 2024 – Avril 2025  
-🏫 Orange Digital Center (Sonatel Academy) – Sénégal
-
-### 🎓 Licence 3 – Mathématiques  
-📅 Novembre 2020 – Janvier 2022  
-🏫 Université Cheikh Anta Diop de Dakar (UCAD) – Sénégal
-
-
-## 🎓 Certifications
-
-- 📊 **Introduction to Big Data** – Coursera  
-  👉 https://coursera.org/share/eb6b0e958717786bd2559b57dde320e5
-
-- 🧠 **SQL Joins** – Coursera  
-  👉 https://coursera.org/share/ab08248cb790c4a4b025180b1d080094
-
-- 📈 **Overview of Data Visualization in Microsoft Excel** – Coursera  
-  👉 https://coursera.org/share/686bf3a6e912b4ac3a68671e9a5cb358
-
-- 🤖 **AI & Intelligent Systems Concepts** – Coursera  
-  👉 https://coursera.org/share/635b05433924f8a895b08b58791e3a5d
-
-- 🗃️ **Python Project for Data Engineering** – Coursera  
-  👉 https://coursera.org/share/768c8ab1f6fbae4fbb6c6cdfd1b91202
-
-- ☁️ **Python for Data Science, AI & Development** – Coursera  
-  👉 https://coursera.org/share/bdd915276b3ee62ca4c8e2a5b316d856
-
-- ☁️ **Python pour le Deep Learning & le Machine Learning: A à Z** – Udemy  
-  👉 https://udemy-certificate.s3.amazonaws.com/image/UC-58073e91-fc2e-4e63-93b1-28ec5a6efb31.jpg?v=1728808489000
-
-- 🐍 **Python Developer Certification** – SoloLearn
-
-- 🧩 **Développement Data – ECSA (École de Code Sonatel Academy)**
-
-- 🌱 **Certification Développement personnel : devenir une meilleure version de soi-même**
-
----
-
 ## 🎯 Objectif
 
 Concevoir des solutions data intelligentes qui résolvent des problèmes réels à travers l’IA, l’automatisation et l’analyse de données.
