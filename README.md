@@ -19,7 +19,7 @@ Développeuse orientée Data & IA, passionnée par la création de solutions con
 
 ## 💼 Expériences professionnelles
 
-### 🔹 **Data Scientist – DataBeez-ESP **
+###🔹 **Data Scientist – DataBeez-ESP**
 **Projets Data End-to-End réalisés :**
 - 🧠 **Prédiction des performances des étudiants**  
   Mise en place d’un modèle complet permettant de prédire si un étudiant **passera en classe supérieure** à partir de ses notes de première année, ainsi que de prédire quels candidats **inscrits au concours seront susceptibles de réussir le cursus**.  
