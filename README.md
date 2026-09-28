@@ -161,7 +161,7 @@ Diplômée d'un **double Master en Data Science** (UCAD/Université de Lille), j
 - 📈 **Data Visualization in Excel** – Coursera
 - ☁️ **Deep Learning & Machine Learning A-Z** – Udemy
 
-[🔗 Voir toutes mes certifications](lien_vers_section_certifs)
+[🔗 Voir toutes mes certifications]([lien_vers_section_certifs](https://github.com/Kantethiara/Data-portfolio/tree/main/Mes%20Certification)
 
 ---
 
