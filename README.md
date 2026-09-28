@@ -179,7 +179,7 @@ Des opportunités en **Data Science**, **Machine Learning** ou **IA** où je peu
 
 💼 **LinkedIn :** [Thiara Kanteye](https://www.linkedin.com/in/thiara-kanteye-a137a3271/)  
 🐙 **GitHub :** [@Kantethiara](https://github.com/Kantethiara)  
-📧 **Email :** [votre.email@exemple.com]  
+📧 **Email :** [thiarakante@gmail.com]  
 🌍 **Localisation :** Dakar, Sénégal
 
 ---
@@ -187,8 +187,8 @@ Des opportunités en **Data Science**, **Machine Learning** ou **IA** où je peu
 ## 💡 Fun Facts
 
 - 🧮 Passionnée de **mathématiques appliquées** depuis la licence
-- 🌱 En apprentissage continu : actuellement sur [sujet actuel]
-- 🎯 Objectif 2025 : Contribuer à des projets open source en ML
+- 🌱 En apprentissage continu : actuellement sur la DATA et l'IA
+- 🎯 Objectif : Contribuer à des projets open source en ML
 - ☕ Toujours partante pour discuter data autour d'un café !
 
 ---
